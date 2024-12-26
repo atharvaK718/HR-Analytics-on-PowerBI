@@ -29,8 +29,11 @@ This repository contains a **Power BI Dashboard** focused on HR Analytics, provi
 
 ## 📂 **Repository Contents**  
 - **`HR_Analytics.pbix`**: Power BI file containing the dashboard.  
-- **`HR Analytics.csv`**: A sample dataset to help you explore the dashboard (if included).  
-- **`Documentation.md`**: Step-by-step guide to setting up and using the dashboard.  
+- **`HR_Analytics.csv`**: The dataset used for the dashboard.  
+- **`Dashboard.png`**: A preview image of the dashboard.  
+- **`DashBoard.pdf`**: A detailed report or static version of the dashboard for offline viewing.  
+- **`Background Image.jpg`**: A background image used in the dashboard design (if applicable).  
+- **`README.md`**: The documentation file for this repository. 
 
 ---
 
